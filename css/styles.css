@@ -1,0 +1,73 @@
+/*tag selector*/
+body{
+  background-color: #373135;
+  font-family: fantasy;
+}
+h1{
+  color: #77AFA8;
+}
+h3{
+  color: #77AFA8;
+}
+p{
+  color: #77AFA8;
+}
+li{
+  color: #77AFA8;
+}
+hr{
+ border-color: #4C696E;
+ border-top-style: dashed;
+ border-style: dotted;
+ border-width: thick;
+ width: 5%;
+}
+a{
+  color: #77AFA8;
+  font-family: fantasy;
+}
+table{
+  color: #77AFA8;
+  font-family: fantasy;
+}
+form{
+  color:  #77AFA8;
+  font-family: fantasy;
+}
+/*class selector*/
+.p1{
+  color: #ff8f56;
+}
+.p2{
+  color: #ff5959;
+}
+.p3{
+  color: #984a59;
+}
+.hr1{
+  border-color: #ff8f56;
+}
+.hr2{
+  border-color: #ff5959;
+}
+.hr3{
+   border-color: #984a59;
+}
+.hr4{
+  border-color:  #77AFA8;
+}
+.circular{
+  border-radius: 100%;
+}
+.border{
+  margin: auto;
+  border-spacing: 20px;
+  border-color: #587850;
+  background-color: #709078;
+}
+.td1{
+  background-color: #78b0a0;
+}
+.hover:hover{
+  color: #ff8f56;
+}
